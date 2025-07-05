@@ -1,3 +1,3 @@
-int main (){
-    my_print_name ();
-}   
+// int main (){
+//     my_print_name ();
+// }   
